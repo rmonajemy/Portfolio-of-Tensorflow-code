@@ -2,12 +2,12 @@
 
 
 
-#  10 digit classification project
+#  10 digit classification project using Convolutional Neural Networks
 
 # used code at this location for reference:
 ##  https://github.com/aymericdamien/TensorFlow-Examples
 
-# learn how it works, fine tune, ...  by Ramin Monajemy
+# learned how it works, did fine tuning, ...  by Ramin Monajemy
 
 
 ## 12A  import MNIST data for conv code trial
