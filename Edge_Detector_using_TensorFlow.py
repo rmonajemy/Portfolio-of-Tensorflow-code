@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 14 14:00:14 2016
 
-@author: Ramin
-"""
 
 # In[11]:
 
@@ -14,7 +9,7 @@ Created on Mon Nov 14 14:00:14 2016
 #2-  horizonal edges
 #3-  vertical edges
 
-#Author:  Ramin Monajemy
+#prepared and debugged by:  Ramin Monajemy
 
 
 
