@@ -1,3 +1,11 @@
+# G3/X  LQR  using TENSORFLOW  and AdamOptimizer
+
+# GOAL:  find the best linear fit for a group of data
+
+
+# Author:  Ramin Monajemy
+# 12/12/16
+
 
 
 
